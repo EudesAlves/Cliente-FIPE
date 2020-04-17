@@ -1,0 +1,32 @@
+C:\Users\Pichau\source\repos\Cliente FIPE\Cliente FIPE\bin\Debug\netcoreapp2.2\Cliente FIPE.deps.json
+C:\Users\Pichau\source\repos\Cliente FIPE\Cliente FIPE\bin\Debug\netcoreapp2.2\Cliente FIPE.runtimeconfig.json
+C:\Users\Pichau\source\repos\Cliente FIPE\Cliente FIPE\bin\Debug\netcoreapp2.2\Cliente FIPE.runtimeconfig.dev.json
+C:\Users\Pichau\source\repos\Cliente FIPE\Cliente FIPE\bin\Debug\netcoreapp2.2\Cliente FIPE.dll
+C:\Users\Pichau\source\repos\Cliente FIPE\Cliente FIPE\bin\Debug\netcoreapp2.2\Cliente FIPE.pdb
+C:\Users\Pichau\source\repos\Cliente FIPE\Cliente FIPE\bin\Debug\netcoreapp2.2\Cliente FIPE.Views.dll
+C:\Users\Pichau\source\repos\Cliente FIPE\Cliente FIPE\bin\Debug\netcoreapp2.2\Cliente FIPE.Views.pdb
+C:\Users\Pichau\source\repos\Cliente FIPE\Cliente FIPE\obj\Debug\netcoreapp2.2\Cliente FIPE.csprojAssemblyReference.cache
+C:\Users\Pichau\source\repos\Cliente FIPE\Cliente FIPE\obj\Debug\netcoreapp2.2\Cliente FIPE.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\source\repos\Cliente FIPE\Cliente FIPE\obj\Debug\netcoreapp2.2\Cliente FIPE.RazorAssemblyInfo.cache
+C:\Users\Pichau\source\repos\Cliente FIPE\Cliente FIPE\obj\Debug\netcoreapp2.2\Cliente FIPE.RazorAssemblyInfo.cs
+C:\Users\Pichau\source\repos\Cliente FIPE\Cliente FIPE\obj\Debug\netcoreapp2.2\Cliente FIPE.AssemblyInfoInputs.cache
+C:\Users\Pichau\source\repos\Cliente FIPE\Cliente FIPE\obj\Debug\netcoreapp2.2\Cliente FIPE.AssemblyInfo.cs
+C:\Users\Pichau\source\repos\Cliente FIPE\Cliente FIPE\obj\Debug\netcoreapp2.2\Cliente FIPE.TagHelpers.input.cache
+C:\Users\Pichau\source\repos\Cliente FIPE\Cliente FIPE\obj\Debug\netcoreapp2.2\Cliente FIPE.TagHelpers.output.cache
+C:\Users\Pichau\source\repos\Cliente FIPE\Cliente FIPE\obj\Debug\netcoreapp2.2\Cliente FIPE.RazorCoreGenerate.cache
+C:\Users\Pichau\source\repos\Cliente FIPE\Cliente FIPE\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Pichau\source\repos\Cliente FIPE\Cliente FIPE\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Pichau\source\repos\Cliente FIPE\Cliente FIPE\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Pichau\source\repos\Cliente FIPE\Cliente FIPE\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Pichau\source\repos\Cliente FIPE\Cliente FIPE\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Pichau\source\repos\Cliente FIPE\Cliente FIPE\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Pichau\source\repos\Cliente FIPE\Cliente FIPE\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Pichau\source\repos\Cliente FIPE\Cliente FIPE\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Pichau\source\repos\Cliente FIPE\Cliente FIPE\obj\Debug\netcoreapp2.2\Cliente FIPE.RazorTargetAssemblyInfo.cache
+C:\Users\Pichau\source\repos\Cliente FIPE\Cliente FIPE\obj\Debug\netcoreapp2.2\Cliente FIPE.RazorTargetAssemblyInfo.cs
+C:\Users\Pichau\source\repos\Cliente FIPE\Cliente FIPE\obj\Debug\netcoreapp2.2\Cliente FIPE.Views.pdb
+C:\Users\Pichau\source\repos\Cliente FIPE\Cliente FIPE\obj\Debug\netcoreapp2.2\Cliente FIPE.dll
+C:\Users\Pichau\source\repos\Cliente FIPE\Cliente FIPE\obj\Debug\netcoreapp2.2\Cliente FIPE.pdb
+C:\Users\Pichau\source\repos\Cliente FIPE\Cliente FIPE\obj\Debug\netcoreapp2.2\Cliente FIPE.csproj.CopyComplete
+C:\Users\Pichau\source\repos\Cliente FIPE\Cliente FIPE\obj\Debug\netcoreapp2.2\Razor\Views\Fipe\Index.g.cshtml.cs
+C:\Users\Pichau\source\repos\Cliente FIPE\Cliente FIPE\obj\Debug\netcoreapp2.2\Razor\Views\Fipe\Create.g.cshtml.cs

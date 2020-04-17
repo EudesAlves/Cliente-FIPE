@@ -1,0 +1,57 @@
+﻿@model IEnumerable<Cliente_FIPE.Models.Marca>
+
+@{
+    ViewData["Title"] = "Fipe";
+}
+
+<div class="row">
+	<div class="col-md-12 text-center">
+		<h3 id="titulo">Consulta Carros - Tabela Fipe</h3>
+	</div>
+</div>
+
+<div class="row">
+	<p>
+	</p>
+
+	<div class="col-md-4">
+		<select id="slcMarcas" asp-items="@ViewBag.Marcas" class="form-control"></select>
+	</div>
+
+	<div class="col-md-4">
+		<input type="text" id="txtVeiculos" placeholder="Veículo" class="form-control" list="dlstVeiculos" />
+		<div id="divVeiculos">
+			<datalist id="dlstVeiculos" class="" ></datalist>
+			<input type="hidden" id="hdnVeiculoId" />
+		</div>
+		<div>
+			
+		</div>
+	</div>
+
+	<div class="col-md-4">
+		<select id="slcVeiculoModelos" class="form-control"></select>
+	</div>
+
+
+</div>
+
+<p>
+</p>
+<div id="rowDetalhes" class="row">
+	<div class="col-md-4"></div>
+	<div class="col-md-4">
+		<div id="divModeloDetalhes" class="">
+
+		</div>
+		<div id="divBotoes" class="" style="display: none">
+			<button id="btnFavoritos" class="btn btn-primary form-control" onclick="AdicionarFavorito()">+ Favorito</button>
+			
+		</div>
+	</div>
+		<div class="col-md-4"></div>
+</div>
+
+<div id="rowFavoritos" class="row">
+	
+</div>
